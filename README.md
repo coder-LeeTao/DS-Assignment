@@ -2,7 +2,7 @@
 ## Assignment 1
 You have two tasks in Assignment 1. <br/>
 Task 1: <br/>
-You need to use your own defined functions to complete the selection sort.<br/>
+You need to complete the selection sort by yourself without call any default java functions.<br/>
 Task 2: <br/>
 You need to implement `exch` and `less` functions to complete selection sort.<br/>
 ## Explain
